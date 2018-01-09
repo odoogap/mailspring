@@ -6,7 +6,7 @@ The Mailspring Odoo plug-in will increase productivity by simplifying processes 
 To work with Mailspring Odoo plug-in you’ll need both Mailspring and Odoo.
 
 
-![alt text](./prints/SitatusBar.png "Status Bar")
+![alt text](./prints/StatusBar.png "Status Bar")
 
 Simple configuration
 --------------------------
